@@ -4,7 +4,7 @@
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
 - 💻 Software Engineer at [DTI Digital]([https://www.dtidigital.com.br/).
 
-## Minhas habilidades
+## My skills include:
 
 -   Programming languages: Javascript, Typescript, C#, Java, Python
 -   Databases: MySql, SQL Server
