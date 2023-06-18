@@ -4,6 +4,8 @@
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
 - 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=victorluizskt&show_icons=true)
+
 ## My skills include:
 
 -   Programming languages: Javascript, Typescript, C#, Java, Python
