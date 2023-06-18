@@ -2,7 +2,7 @@
 
 - 👷 Linkedin (https://www.linkedin.com/in/lucas-c-dornelas)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
-- 💻 Software Engineer at [DTI Digital]([https://www.dtidigital.com.br/).
+- 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
 
 ## My skills include:
 
