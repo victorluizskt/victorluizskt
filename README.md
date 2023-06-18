@@ -1,4 +1,4 @@
-# :man_technologist: Victor Luiz Goncalves
+# Victor Luiz Goncalves
 
 - 👷 [Linkedin](https://www.linkedin.com/in/victor-luiz-3913271a7)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
