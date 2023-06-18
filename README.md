@@ -5,7 +5,7 @@
 - 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=victorluizskt&show_icons=true&theme=dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victorluizskt&theme=dark&layout=compact)
+[!Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victorluizskt&theme=dark&layout=compact)
 
 ## My skills include:
 
