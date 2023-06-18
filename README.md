@@ -4,8 +4,8 @@
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
 - 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=victorluizskt&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victorluizskt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=victorluizskt&show_icons=true&theme=dark)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My skills include:
 
