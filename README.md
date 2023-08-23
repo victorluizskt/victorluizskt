@@ -3,15 +3,7 @@
 - 👷 [Linkedin](https://www.linkedin.com/in/victor-luiz-3913271a7)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
 - 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
-
-
-<div align="left">
-  <a href="https://github.com/victorluizskt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorluizskt&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorluizskt&theme=dark&layout=compact"/>
-</div>
-
-
+  
 ## My skills include:
 
 -   Programming languages: Javascript, Typescript, C#, Java, Python
