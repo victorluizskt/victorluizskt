@@ -1,6 +1,6 @@
 # Victor Luiz Goncalves
 
-- 👷 [Linkedin](https://www.linkedin.com/in/victor-luiz-3913271a7)
+- 👷 [Linkedin](www.linkedin.com/in/victorluizskt)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
 - 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
   
