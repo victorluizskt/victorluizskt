@@ -2,7 +2,7 @@
 
 - 👷 [Linkedin](www.linkedin.com/in/victorluizskt)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
-- 💻 Software Engineer at [DTI Digital](https://www.dtidigital.com.br/).
+- 💻 Software Engineer at [nScreen](https://www.nscreen.com.br/).
   
 ## My skills include:
 
