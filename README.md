@@ -1,8 +1,8 @@
 # Victor Luiz Goncalves
 
-- 👷 [Linkedin](www.linkedin.com/in/victorluizskt)
+- 👷 [Linkedin](https://www.linkedin.com/in/victorluizskt/)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
-- 💻 Software Engineer at [nScreen](https://www.nscreen.com.br/).
+- 💻 Software Engineer at [Localiza&Co]([https://www.nscreen.com.br/](https://www.localiza.com/brasil/pt-br)).
   
 ## My skills include:
 
