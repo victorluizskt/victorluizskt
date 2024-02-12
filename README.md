@@ -2,7 +2,7 @@
 
 - 👷 [Linkedin](https://www.linkedin.com/in/victorluizskt/)
 - 📖 Computer Engineering student at [CEFET-MG](https://www.cefetmg.br/).
-- 💻 Software Engineer at [Localiza&Co](https://www.nscreen.com.br/](https://www.localiza.com/brasil/pt-br)).
+- 💻 Software Engineer at [Localiza&Co](https://www.localiza.com/brasil/pt-br).
   
 ## My skills include:
 
